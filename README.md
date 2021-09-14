@@ -2,7 +2,7 @@
 <p>Web Developer & Designer based in Majalengka, Indonesia.</p>
 - I am currently studying software engineering in SMKN 1 Talaga. <br>
 - I am currently learning React, Vue and Flutter.<br>
-- I am looking collaborate in web development projects.<br>
+- I am looking collaborate on web development projects.<br>
 - 📫 How to find me: <br>
 <a href="https://instagram.com/sandifauzan_">Instagram</a> or 
 <a href="https://www.facebook.com/san.fauzan.79">Facebook</a>
